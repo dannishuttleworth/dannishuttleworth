@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Danni! A brand new :uk: coder, embarking upon the biggest challenge of my career - a 16 week bootcamp with School of Code :school_satchel:
+
+I will be using this to track my journey, commencing March '23 :notebook:
+
+Please feel free to connect with me - I love meeting new people and learning from one another.
+
+:link: https://www.linkedin.com/in/danielle-shuttleworth-91698615a/
+
+:email: dannishuttleworth@hotmail.com
+
 <!--
 **dannishuttleworth/dannishuttleworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
