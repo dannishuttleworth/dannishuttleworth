@@ -1,8 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danni Shuttleworth 
-Full-Stack Developer
-I am a recent graduate of School of Code Cohort 14.0 in Web Development. As a Junior Full-Stack Developer I am looking forward to entering the world of tech and continuing to build upon my skills. * 🌍  I'm based in Reading, UK 
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! My name is Danni Shuttleworth 
+💻 Full-Stack Developer 💻
+I am a recent graduate of School of Code Cohort 14.0 in Web Development. 
+As a Junior Full-Stack Developer I am looking forward to entering the world of tech and continuing to build upon my skills.
+
+* 🌍  I'm based in Reading, UK 
 * ✉️  You can contact me at [danielle.shuttleworth@outlook.com](mailto:danielle.shuttleworth@outlook.com)
-* * 🧠  I'm learning React Native, Typescript
+* 🧠  I'm learning React Native, Typescript
 * 🤝  I'm open to collaborating on Sustainability/Environmental Projects, Weather Projects and Community Projects.
 
 ### Skills  
@@ -14,6 +17,3 @@ I am a recent graduate of School of Code Cohort 14.0 in Web Development. As a Ju
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dannishuttleworth"><img src="https://github-readme-stats.vercel.app/api?username=dannishuttleworth&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dannishuttleworth's GitHub stats" /></a>
-### Support Me
-
-<a href="https://www.buymeacoffee.com/dannishuttleworth"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
