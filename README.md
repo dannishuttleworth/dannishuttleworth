@@ -28,3 +28,7 @@ As a Junior Full-Stack Developer I am looking forward to entering the world of t
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/dannishuttleworth"><img src="https://github-readme-stats.vercel.app/api?username=dannishuttleworth&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dannishuttleworth's GitHub stats" /></a>
+
+<b>My Codewars Stats</b>
+
+<img src="https://www.codewars.com/users/dannishuttleworth/badges/large"/>
