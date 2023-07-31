@@ -11,7 +11,7 @@ As a Junior Full-Stack Developer I am looking forward to entering the world of t
 
 * 🌍  I'm based in Reading, UK 
 * ✉️  You can contact me at [danielle.shuttleworth@outlook.com](mailto:danielle.shuttleworth@outlook.com)
-* 🧠  I'm learning React Native, Typescript
+* 🧠  I'm learning React Native, OOP
 * 📚  I'm currently reading <strong> Eloquent Javascript </strong> (M. Haverbeke)
 * 🤝  I'm open to collaborating on Sustainability/Environmental Projects, Weather Projects and Community Projects.
 
