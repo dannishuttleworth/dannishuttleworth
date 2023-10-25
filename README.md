@@ -6,8 +6,6 @@
 <br>
 I am a recent graduate of School of Code Cohort 14.0 in Web Development. 
 <br>
-As a Junior Full-Stack Developer I am looking forward to entering the world of tech and continuing to build upon my skills.
-<br>
 
 * 🌍  I'm based in Reading, UK 
 * ✉️  You can contact me at [danielle.shuttleworth@outlook.com](mailto:danielle.shuttleworth@outlook.com)
