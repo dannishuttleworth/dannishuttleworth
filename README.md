@@ -1,12 +1,11 @@
-# 💻 Full-Stack Developer 
+# 💻 Full-Stack Developer...in training
 <br>
 <br>
-I am a recent graduate of School of Code Cohort 14.0 in Web Development. 
 <br>
 
 * 🌍  I'm based in Reading, UK 
 * ✉️  You can contact me at [danielle.shuttleworth@outlook.com](mailto:danielle.shuttleworth@outlook.com)
-* 🧠  I'm learning Python, GoLang, PostgreSQL
+* 🧠  I'm learning Javascript and Python.
 * 📚  I'm currently reading <strong> Eloquent Javascript </strong> (M. Haverbeke)
 * 🤝  I'm open to collaborating on Sustainability/Environmental Projects, Weather Projects and Community Projects.
 
